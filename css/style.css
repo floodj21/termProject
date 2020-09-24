@@ -22,11 +22,11 @@ h1 {
 }
 
 #img1 {
-    border: 1rem, black;
+    border: thin, black;
     max-width: 100%;
 }
 
 #p1 {
-    border-left: 2rem, #1B263Bff;
+    border-left: thick, #1B263Bff;
 }
 
