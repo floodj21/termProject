@@ -23,6 +23,7 @@ h1 {
 
 #img1 {
     border: 1rem, black;
+    max-width: 100%;
 }
 
 #p1 {
