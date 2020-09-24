@@ -19,11 +19,13 @@ h1 {
     text-align: center;
     margin-top: 1rem;
     font-size: 3rem;
+    color: red;
 }
 
-#img1 {
+img {
     border: thin, black;
     max-width: 100%;
+    padding: 3rem;
 }
 
 #p1 {
