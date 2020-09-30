@@ -19,16 +19,16 @@ h1 {
     text-align: center;
     margin-top: 1rem;
     font-size: 3rem;
-    color: red;
+    color: #DC143C;
 }
 
 img {
-    border: 2rem black;
+    border: 2rem solid #000000;
     max-width: 100%;
     padding: 3rem;
 }
 
 #p1 {
-    border-left: 4rem #1B263B;
+    border-left: 4rem solid #1B263B;
 }
 
