@@ -23,12 +23,12 @@ h1 {
 }
 
 img {
-    border: 2rem solid #000000;
+    border: .5rem solid #000000;
     max-width: 100%;
     padding: 3rem;
 }
 
 #p1 {
-    border-left: 4rem solid #1B263B;
+    border-left: .3rem solid #1B263B;
 }
 
