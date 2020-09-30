@@ -23,12 +23,12 @@ h1 {
 }
 
 img {
-    border: 2rem, black;
+    border: 2rem black;
     max-width: 100%;
     padding: 3rem;
 }
 
 #p1 {
-    border-left: 4rem, #1B263B;
+    border-left: 4rem #1B263B;
 }
 
