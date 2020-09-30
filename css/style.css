@@ -6,14 +6,14 @@
 --platinum: #e0e1ddff;
 */
 header {
-    color: #0D1B2Aff;
+    color: #0D1B2A;
 }
 p {
-    color: #415A77ff;
+    color: #415A77;
 }
 
 a {
-    color: #1B263Bff;
+    color: #1B263B;
 }
 h1 {
     text-align: center;
@@ -23,12 +23,12 @@ h1 {
 }
 
 img {
-    border: thin, black;
+    border: 2rem, black;
     max-width: 100%;
     padding: 3rem;
 }
 
 #p1 {
-    border-left: thick, #1B263Bff;
+    border-left: 4rem, #1B263B;
 }
 
