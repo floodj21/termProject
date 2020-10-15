@@ -6,28 +6,31 @@
 --platinum: #e0e1ddff;
 */
 header {
-    color: #0D1B2Aff;
+    color: #0D1B2A;
 }
 p {
-    color: #415A77ff;
+    color: #415A77;
 }
 
 a {
-    color: #1B263Bff;
+    color: #1B263B;
 }
 h1 {
     text-align: center;
     margin-top: 1rem;
     font-size: 3rem;
+<<<<<<< HEAD
+=======
+    color: #DC143C;
+>>>>>>> f1867be7a2531f498b84bd53a1fdc48eff415908
 }
 
 img {
-    border: thin, black;
+    border: .5rem solid #000000;
     max-width: 100%;
-    padding: 3rem;
 }
 
 #p1 {
-    border-left: thick, #1B263Bff;
+    border-left: .3rem solid #1B263B;
 }
 
