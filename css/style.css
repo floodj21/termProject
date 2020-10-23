@@ -8,6 +8,10 @@
 header {
     color: #0D1B2A;
 }
+
+body {
+    background-color: lightskyblue;
+}
 p {
     color: #415A77;
 }
