@@ -15,7 +15,7 @@ Be sure that your code is not within this comment section.
 
 //===>Your code goes on the next line:
 
-var quoteID = document.getElementByID("quote")
+var quoteID = document.getElementByID('quote');
 
 
 
@@ -25,7 +25,7 @@ This step is a fill-in-the-blank below. I have provided the method details. You 
 */
 
 //===>Your code goes on the next line. Add the variable name to the beginning:
-quoteID.classList.add('animate__animated', 'animate__backInRight', 'animate__slower')
+quoteID.classList.add('animate__animated', 'animate__backInRight', 'animate__slower');
 
 /*
 Step 3: Add console log statement to the end of this script.
@@ -35,7 +35,7 @@ You simply want to write a statement the console log of the browser. The stateme
 
 //===>Your code goes on the next line:
 
-console.log("Animation completed")
+console.log("Animation completed");
 
 /*
 hint: you will need when your JS code is correct when you receive no errors in the console log. If you receive a syntax error in the console log when loading the learntargetj3.html page, then try to troubleshoot and resolve the error.
