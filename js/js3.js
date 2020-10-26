@@ -15,7 +15,7 @@ Be sure that your code is not within this comment section.
 
 //===>Your code goes on the next line:
 
-var quoteID = document.getElementByID('quote');
+var quoteID = document.getElementById('quote');
 
 
 
