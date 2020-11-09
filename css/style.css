@@ -28,7 +28,7 @@ h1 {
     text-align: center;
     margin-top: 1rem;
     font-size: 3rem;
-    color: rgb(1, 10, 130);
+    color: rgb(0,0,0);
 }
 
 h2 {
@@ -37,7 +37,7 @@ h2 {
 }
 
 img {
-    border: .5rem solid #000000;
+    border: .5rem solid rgb(0,0,0);
     max-width: 100%;
 }
 
@@ -54,6 +54,6 @@ img {
 
 #discGolfVideo {
     text-align: center;
-    border: .5rem solid #000000;
+    border: .5rem solid rgb(0,0,0);
 }
 
